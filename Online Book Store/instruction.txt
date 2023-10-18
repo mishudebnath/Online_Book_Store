@@ -1,0 +1,32 @@
+Design the following static web pages required for an online book store web site.
+1) HOME PAGE: The static home page must contain three frames. 
+2) LOGIN PAGE 
+3) CATOLOGUE PAGE: The catalogue page should contain the details of all the books 
+available in the web site in a table.
+4) REGISTRATION PAGE
+
+Design the following static web pages required for online book store. 
+1. Home page:- the static home page must contains three pages 
+2. Top frame:- logo and college name and links to homepage, login page, registration page 
+and catalogue page
+3. Left frame:- at least four links for navigation which will display the catalogue of 
+Respective links 
+4. Right frame:- the pages to links in the left frame must be loaded here initially it Contains 
+the description of the website.
+
+
+DESCRIPTION: In this program the entire web paged are created by using basic HTML 
+tags. Home page is divided into 3 frames by using <frameset> and <frame> tags. A frame is 
+used to display a web page within a web page. 
+
+<frameset>: 
+ The <frameset> tag defines a frameset. 
+ The <frameset> element holds one or more <frame> elements. 
+ Each <frame> element can hold a separate document. 
+ The <frameset> element specifies HOW MANY columns or rows there will be in the 
+frameset, and HOW MUCH percentage/pixels of space will occupy each of them. 
+
+<frame>: 
+ The <frame> tag defines one particular window (frame) within a <frameset>. 
+ Each <frame> in a <frameset> can have different attributes, such as border, scrolling, 
+the ability to resize, etc. 
